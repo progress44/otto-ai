@@ -28,7 +28,7 @@
     "@google-cloud/speech": "^0.10.3",
     "@google-cloud/storage": "^1.1.0",
     "@google-cloud/translate": "^1.0.0",
-    "@google-cloud/vision": "^0.12.0",
+    "@google-cloud/vision": "^1.11.0",
     "apiai": "^4.0.0",
     "async": "^2.1.5",
     "aws-sdk": "^2.93.0",

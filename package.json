@@ -74,7 +74,7 @@
     "babelify": "^8.0.0",
     "css-loader": "^0.28.1",
     "eslint": "^4.11.0",
-    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-react": "^7.23.2",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^2.0.0",
     "font-loader": "^0.1.2",

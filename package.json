@@ -59,7 +59,7 @@
     "simple-youtube-api": "^5.0.0",
     "socket.io": "^2.4.0",
     "spotify-web-api-node": "^2.3.6",
-    "striptags": "^3.1.0",
+    "striptags": "^3.2.0",
     "transmission": "^0.4.9",
     "underscore": "^1.8.3",
     "uuid": "^3.1.0",

@@ -49,7 +49,7 @@
     "md5": "^2.2.1",
     "messenger-bot": "^2.5.0",
     "moment": "^2.19.3",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.12.15",
     "mongoose-autopopulate": "^0.6.0",
     "mopidy": "^0.5.0",
     "node-telegram-bot-api": "^0.27.0",
